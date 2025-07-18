@@ -20,7 +20,7 @@ To help small businesses offer **secure, limited, and trackable internet access*
 - Discord Webhook + Bot
 
 ## 📄 More Info
-See [`Zento WiFI.pdf`](./Zento_WiFi.pdf) for architecture, screenshots, and implementation flow.
+See [`Zento WiFi.pdf`](./Zento_WiFi.pdf) for architecture, screenshots, and implementation flow.
 
 ---
 
